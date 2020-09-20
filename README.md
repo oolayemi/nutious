@@ -1,3 +1,3 @@
 ## About Laravel
 
-<h4> Learning Laravel with VueJS </h4>
+<h4> Learning Laravel with VueJS(SPA)</h4>
